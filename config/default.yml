@@ -1,0 +1,17 @@
+{
+  authFirebase:
+    { email: 'vsjuehd4@gmail.com', password: 'Desaid99' },
+  firebase:
+    {
+      apiKey: "AIzaSyAvNMc5EtCyq0mFh2Bw07GVbq1bdtgWxtU",
+      authDomain: "kufra-parser.firebaseapp.com",
+      databaseURL: "https://kufra-parser-default-rtdb.europe-west1.firebasedatabase.app",
+      projectId: "kufra-parser",
+      storageBucket: "kufra-parser.appspot.com",
+      messagingSenderId: "469056692063",
+      appId: "1:469056692063:web:a1b3420f775c890f98a0ea",
+      measurementId: "G-VC971G06EN"
+    },
+  tokenBot: '7438501833:AAGw6b-5hTTC6HtZgzDlxDLwr3Q0p0tm6i8',
+  webhook: { url: '  https://c6f5-81-191-119-253.ngrok-free.app', port: 3000 },
+}
